@@ -69,4 +69,29 @@ Diabetic: 0 shows that patient doesn't have diabetes 1 shows patient have diabet
  
  ![download (5)](https://user-images.githubusercontent.com/98135268/162476531-80ec92ad-8933-493f-afe9-0571340459cf.png)
  
+
+## MACHINE LEARNING
+
+**PREDICTION MODEL COMPARISION**
+
+| MODEL       |  PRECISION | RECALL | F1 Macro Average| F1 Weighted Average |
+| ----------- |  ----------- | ----------- | ----------- | ----------- |
+| KNN WITH PCA | 0.79 | 0.78 | 0.71 | 0.73 |
+| KNN WITHOUT PCA |  0.78 | 0.78  | 0.69 | 0.72 |
+| XGB | 0.78 | 0.85 | 0.72 | 0.74 |
+| RANDOM FOREST | 0.64 | 1.0 | 0.39 | 0.50 |
+
+## conclusion
+
  after review all the methodos to predict the diabetic in a patience we have a accuaracy of 77% 
+using the XGB model
+
+moving foward doctors can make recomendations about to prevent this ilnes that affects millons of people around the World
+
+
+  
+  
+  
+  
+
+ 
